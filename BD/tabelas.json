@@ -1,0 +1,61 @@
+[
+{
+"id": 1,
+"matricula": "2026A01",
+"nome": "CARLOS EDUARDO SILVA",
+"turma": "3A",
+"data": "2026-10-23",
+"presente": true,
+"motivoSaida": "BANHEIRO",
+"minutosFora": 8,
+"alertaTempo": false
+},
+
+{
+"id": 2,
+"matricula": "2026A04",
+"nome": "MURILO DIETHEMBERG TOFANIN",
+"turma": "2B",
+"data": "2026-10-22",
+"presente": true,
+"motivoSaida": "Diretoria",
+"minutosFora": 10,
+"alertaTempo": false
+},
+
+{
+"id": 3,
+"matricula": "20268B1",
+"nome": "KAUAN FRANCISCO ONELLI DE ALMEIDA",
+"turma": "1A",
+"data": "2026-10-23",
+"presente": true,
+"motivoSaida": "BANHEIRO",
+"minutosFora": 8,
+"alertaTempo": false
+},
+
+{
+"id": 4,
+"matricula": "2016A01",
+"nome": "RAYANE YASMIN DO SANTOS",
+"turma": "3B",
+"data": "2026-10-23",
+"presente": true,
+"motivoSaida": "BANHEIRO",
+"minutosFora": 8,
+"alertaTempo": false
+},
+
+{
+"id": 5,
+"matricula": "2026C01",
+"nome": "LUIS OTAVIO LAZARI FERNANDES",
+"turma": "3A",
+"data": "2026-10-23",
+"presente": true,
+"motivoSaida": "BANHEIRO",
+"minutosFora": 8,
+"alertaTempo": false
+}
+]

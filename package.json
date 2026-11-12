@@ -1,0 +1,19 @@
+{
+  "name": "clinicaveterinariaapi",
+  "version": "1.0.0",
+  "description": "Api dos atendimentos da clinica veterinária",
+  "main": "index.js",
+  "scripts": {
+    "start": "node servidor.js",
+    "dev": "node --watch servidor.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Murilo Diethemberg Tofanin",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
+
